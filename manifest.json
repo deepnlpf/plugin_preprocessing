@@ -1,0 +1,12 @@
+{
+    "manifest_version": "1",
+    "name": "Preprocessing",
+    "version": "1.0.0",
+    "keyname": "preprocessing",
+    "description": "Just a plugin for pre-processing.",
+    "site": "",
+    "author": "RodriguesFAS",
+    "category": "nlp",
+    "license": "Apache2",
+    "tasks": []
+}
